@@ -1,6 +1,8 @@
 # Custom-AI-Chatbot
 Chatbot implemented in Python, using OpenAI's API, LlamaIndex, Langchain, Gradio and PyPDF2. 
 
+Implemented for Ecolytics, with the purpose of training on custom data about the B-Corp Sustainability Certification to answer client business queries on how best to meet sustainability standards. 
+
 The code sets up a custom-trained AI chatbot using the GPT-3.5-turbo language model from OpenAI. The code requires several Python packages to be installed using pip. These packages are:
 
 # packages used
