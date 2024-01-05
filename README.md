@@ -1,5 +1,5 @@
 # Custom-AI-Chatbot
-Chatbot implemented in Python, using OpenAI's API, LlamaIndex, Langchain, Gradio and PyPDF2. 
+Chatbot that can be trained on custom data. Implemented in Python, using OpenAI's API, LlamaIndex, Langchain, Gradio and PyPDF2. 
 
 Implemented for Ecolytics, with the purpose of training on custom data about the B-Corp Sustainability Certification to answer client business queries on how best to meet sustainability standards. Data scraped off of B-Lab's publicly available guide.
 
